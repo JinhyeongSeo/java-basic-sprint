@@ -1,6 +1,4 @@
-package Example03;
-
-import java.util.Scanner;
+package example03;
 
 public class EvenNum {
 

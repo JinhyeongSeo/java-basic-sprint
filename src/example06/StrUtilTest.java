@@ -1,4 +1,4 @@
-package Example06;
+package example06;
 
 public class StrUtilTest {
 

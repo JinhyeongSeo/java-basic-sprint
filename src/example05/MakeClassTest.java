@@ -1,4 +1,4 @@
-package Example05;
+package example05;
 
 public class MakeClassTest {
 
