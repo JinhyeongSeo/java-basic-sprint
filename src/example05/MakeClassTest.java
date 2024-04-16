@@ -1,7 +1,6 @@
 package example05;
 
 public class MakeClassTest {
-
     public static void main(String[] args) {
         Person person1 = new Person("seo",15);
         Person person2 = new Person("kim",20);

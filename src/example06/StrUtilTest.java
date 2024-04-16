@@ -1,7 +1,6 @@
 package example06;
 
 public class StrUtilTest {
-
     public static void main(String[] args) {
         StringUtil su = new StringUtil();
         String str1 = "hello";

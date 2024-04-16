@@ -3,8 +3,6 @@ package example01;
 import java.util.Scanner;
 
 public class InputTest {
-
-
     public static void main(String[] args) {
         String num = "0123456789";
         Scanner sc = new Scanner(System.in);

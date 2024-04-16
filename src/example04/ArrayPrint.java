@@ -3,7 +3,6 @@ package example04;
 import java.util.Arrays;
 
 public class ArrayPrint {
-
     public static void main(String[] args) {
         int[] arr = new int[10];
 
